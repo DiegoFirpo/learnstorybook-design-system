@@ -6,10 +6,10 @@ import { background, color, typography } from './shared/styles';
 const BadgeWrapper = styled.div`
   display: inline-block;
   vertical-align: top;
-  font-size: 11px;
-  line-height: 12px;
-  padding: 4px 12px;
-  border-radius: 3em;
+  font-size: 14px;
+  line-height: 14px;
+  padding: 8px 12px;
+  border-radius: 2em;
   font-weight: ${typography.weight.bold};
 
   svg {
