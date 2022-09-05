@@ -1,7 +1,7 @@
 {
   "name": "@diegofirpo33/learnstorybook-design-system-template",
   "description": "Storybook design systems tutorial",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
   "repository": "https://github.com/DiegoFirpo/learnstorybook-design-system",
